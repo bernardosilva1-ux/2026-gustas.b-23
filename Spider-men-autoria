@@ -1,0 +1,64 @@
+<!DOCTYPE html>  <html lang="pt-BR">  
+<head>  
+    <meta charset="UTF-8">  
+    <title>Homem-Aranha</title>  
+    <style>  
+        body {  
+            font-family: Arial;  
+            margin: 0;  
+            background: #f4f4f4;  
+        }  header, footer {  
+        background: #c62828;  
+        color: white;  
+        text-align: center;  
+        padding: 10px;  
+    }  
+
+    main {  
+        padding: 10px;  
+    }  
+
+    section {  
+        background: white;  
+        padding: 10px;  
+        margin-bottom: 10px;  
+        border-radius: 5px;  
+    }  
+
+    img {  
+        width: 100%;  
+    }  
+</style>
+
+</head>  
+<body>  <header>  
+    <h1>Homem-Aranha: Longe de Casa</h1>  
+</header>  <main>  
+    <section>  
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qHAD_1LreADvvM6tXZN4xRaXU0RMO8SLqqqh87wzoA&s=10" alt="Homem-Aranha">  
+    </section>  <section>  
+    <h2>Sinopse</h2>  
+    <p>  
+        Peter Parker viaja pela Europa com seus amigos após os acontecimentos de Vingadores.  
+        Durante a viagem, ele é chamado por Nick Fury para enfrentar novas ameaças que colocam o mundo em perigo.  
+    </p>  
+</section>  
+
+<section>  
+    <h2>Personagens</h2>  
+    <p>  
+        Homem-Aranha (Peter Parker), Mysterio, MJ e Nick Fury participam da história.  
+    </p>  
+</section>  
+
+<section>  
+    <h2>Informações</h2>  
+    <p>  
+        Filme lançado em 2019, do gênero ação e aventura, mostrando o crescimento do herói.  
+    </p>  
+</section>
+
+</main>  <footer>  
+    <p>Gustavo Bernardo Da Silva</p>  
+</footer>  </body>  
+</html>  
